@@ -1,4 +1,4 @@
-# Simple Storage wit brownie
+# Simple Storage with brownie
 
 Same project as before but me use [brownie](https://github.com/eth-brownie/brownie) framework.
 
